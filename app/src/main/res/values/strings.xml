@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">composed</string>
+    <string name="title_activity_ye">YeActivity</string>
+    <string name="title_activity_ye3">YeActivity3</string>
 </resources>
