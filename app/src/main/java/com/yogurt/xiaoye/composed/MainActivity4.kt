@@ -21,7 +21,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.yogurt.xiaoye.composed.ui.theme.ComposedTheme
 
-class MainActivity3 : ComponentActivity() {
+class MainActivity4 : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
